@@ -1,0 +1,146 @@
+.row{
+    display: flex;
+    justify-content: space-around;
+    background-color: bisque;
+    height: 60px;
+    align-items: center;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    color: rgb(85, 55, 16);
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    font-size: 50px;
+    margin-bottom: 40px;
+
+}
+.row2{
+    margin-left: 58rem;
+    margin-inline: 70px;
+    margin-top: 43%;
+}
+.row1 {
+    margin-top: 40%;
+    margin-inline: 83px;
+    font-family: cursive;
+    color: brown;
+    
+    
+}
+.social{
+    margin-top: 50%;
+    margin-left: 0%;
+    background-color: antiquewhite;
+    display: flex;
+    
+}
+.fb{
+    margin-left: 16%;
+}
+.insta{
+    margin-left: 16%;
+}
+.twitter{
+    margin-left: 16%;
+}
+footer{
+    height: 50%;
+    background-color: antiquewhite;
+}
+.copy p{
+    font-size: 17px;
+    margin-left: 33px;
+}
+.fd5 p{
+    font-size: 15px;
+}
+.sushi{
+    padding-inline: 31px;
+    width: 29%;
+    background-color: rgb(179, 197, 190);
+    margin-inline-start: 10px;
+    font-size: 15px;
+    border-radius: 10px;
+    height: 505;
+    margin-top: 50%;;
+}
+.fd14 p{
+    
+    
+    font-size: 15px;
+    
+    
+}
+.ramen{
+    padding-inline: 31px;
+    width: 29%;
+    background-color: rgb(179, 197, 190);
+    margin-inline-start: 10px;
+    font-size: 15px;
+    border-radius: 10px;
+    height: 505;
+    margin-top: 50%;
+}
+
+.fd1{
+    display: flex;
+}
+.omurice{
+    padding-inline: 31px;
+    width: 29%;
+    background-color: rgb(179, 197, 190);
+    margin-inline-start: 10px;
+    
+    border-radius: 10px;
+    height: 505;
+    margin-top: 50%;
+}
+.omurice p{
+    font-size: 15px;
+}
+.food1{
+    display: flex;
+    margin-top: -44%;
+
+}
+.oden{
+    padding-inline: 31px;
+    width: 29%;
+    background-color: rgb(179, 197, 190);
+    margin-inline-start: 10px;
+    
+    border-radius: 10px;
+    height: 505;
+    margin-top: 50%;
+}
+.oden p{
+    font-size: 15px ;
+}
+.sashimi{
+    padding-inline: 31px;
+    width: 29%;
+    background-color: rgb(179, 197, 190);
+    margin-inline-start: 10px;
+    
+    border-radius: 10px;
+    height: 505;
+    margin-top: 50%;
+}
+.sashimi p{
+    font-size: 15px ;
+}
+.onugiri{
+    padding-inline: 31px;
+    width: 29%;
+    background-color: rgb(179, 197, 190);
+    margin-inline-start: 10px;
+    
+    border-radius: 10px;
+    height: 505;
+    margin-top: 50%;
+}
+.onugiri p{
+    font-size: 15px ;
+}
